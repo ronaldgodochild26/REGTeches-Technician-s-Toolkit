@@ -54,4 +54,3 @@ Designed to replace the clutter of USB drives, this tool allows you to diagnose,
 You can launch the tool directly from PowerShell without manually downloading files. Run this command as **Administrator**:
 
 ```powershell
-irm "[regteches.com/tool](https://regteches.com/tool)" | iex
